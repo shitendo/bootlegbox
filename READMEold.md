@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bootleg Box
 
 You can use the [editor on GitHub](https://github.com/shitendo/bootlegbox/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
