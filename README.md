@@ -4,9 +4,8 @@ Bootleg Box is a subscription box service for all things bootleg. All games prov
 
 ## March 2019
 
-
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This month's theme is **Nostalgia**. This month, we'll be taking it back to the classic video games, inside jokes, and songs that made us the people we are today. With that said, we'll be including **all content from every previous box** in this one!
+[What's in the box?](READMEold.md)
 
 ### Markdown
 
